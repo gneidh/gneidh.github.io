@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /archive/
+Disallow: /publications-before-apa-2026-11-03.html
+Sitemap: https://gneidh.github.io/sitemap.xml
