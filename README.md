@@ -1,6 +1,6 @@
 # Guido Neidhöfer — academic website
 
-Live website: https://gneidh.github.io/
+Live website: https://gneidhofer.github.io/
 
 A static website served by GitHub Pages from the main branch. No build or package installation is required.
 
@@ -19,7 +19,7 @@ style.css contains shared responsive styling. site.js handles citation copying. 
 
 The complete original repository is preserved on branch backup-before-polish-2026-11-03 at commit d72b4ea1621b7542342324d61b239f6945446028.
 
-A browsable copy of all six previous pages is at https://gneidh.github.io/archive/2026-11-03/index.html. The archive uses its own copy of the previous stylesheet, is excluded from search indexing, and references original assets that remain unchanged.
+A browsable copy of all six previous pages is at https://gneidhofer.github.io/archive/2026-11-03/index.html. The archive uses its own copy of the previous stylesheet, is excluded from search indexing, and references original assets that remain unchanged.
 
 The earlier publications layout is also retained in publications-before-apa-2026-11-03.html.
 
