@@ -6,3 +6,5 @@
 @media(max-width:640px){.publication-tools{position:relative;display:block}.publication-tools details{min-width:0}.publication-tools details>summary{padding-right:120px;min-height:34px}.publication-tools .copy-citation{position:absolute;right:0;top:0}}
 
 @media print{.home::before{display:none}}
+
+.theme-grid .theme-illustration{display:block;width:100%;max-width:300px;height:auto;aspect-ratio:3/2;object-fit:contain;margin:0 0 18px;border-radius:4px}@media(max-width:640px){.theme-grid .theme-illustration{max-width:270px}}@media print{.theme-grid .theme-illustration{display:none}}
